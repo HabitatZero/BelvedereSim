@@ -29,7 +29,7 @@
   "devDependencies": {
     "catharsis": "^0.9.0",
     "codecov": "^3.6.5",
-    "eslint": "^4.8.0",
+    "eslint": "^7.31.0",
     "grunt": "~0.4.1",
     "grunt-cli": "^1.2.0",
     "grunt-contrib-clean": "^1.1.0",
